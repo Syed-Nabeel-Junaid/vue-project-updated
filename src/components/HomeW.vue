@@ -1,10 +1,6 @@
 <template>
   <div class="home">
-<<<<<<< HEAD
-    <h1>loop</h1>
-=======
-    <h1>looper</h1>
->>>>>>> 25b09ea5a04963ace608a5e2255b8cb8807b7fbb
+    <h1>looper new</h1>
    
    
 
